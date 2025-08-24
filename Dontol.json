@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "",
