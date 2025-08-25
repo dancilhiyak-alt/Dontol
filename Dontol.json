@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "",
+        "NousResearch/Yarn-Llama-2-7b-128k",
         ""
       ]
     }
