@@ -3,9 +3,9 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
-        "",
+        "Qwen/Qwen2.5-Coder-7B-Instruct",
         ""
       ]
     }
