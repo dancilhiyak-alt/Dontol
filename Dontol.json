@@ -5,8 +5,8 @@
       "isAccepted": true,
       "all": true,
       "acc_task" : [
-        "",
-        ""
+        "defog/sqlcoder-7b-2",
+        "defog/sqlcoder-7b-2"
       ]
     }
   ]
