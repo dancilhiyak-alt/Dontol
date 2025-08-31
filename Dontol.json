@@ -2,11 +2,11 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
-        "defog/sqlcoder-7b-2",
-        "defog/sqlcoder-7b-2"
+        "",
+        ""
       ]
     }
   ]
