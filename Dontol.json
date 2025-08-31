@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-3-Llama-3.1-8B",
+        "Qwen/Qwen2-1.5B-Instruct",
         ""
       ]
     }
