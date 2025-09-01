@@ -3,10 +3,12 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": true,
-      "acc_task" : [
+      "all": true,  
+      "acc_task" : [ 
         "",
-        ""
+        "",
+        "",
+        "",
       ]
     }
   ]
