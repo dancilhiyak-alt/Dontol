@@ -6,7 +6,7 @@
       "all": true,  
       "acc_task" : [ 
         "unsloth/Qwen2-1.5B",
-        "",
+        "Qwen/Qwen2.5-1.5B-Instruct",
         "",
         "",
       ]
