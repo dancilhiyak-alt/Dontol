@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,  
       "acc_task" : [ 
-        "",
+        "Qwen/Qwen2-1.5B-Instruct",
         "",
       ]
     }
