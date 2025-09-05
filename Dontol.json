@@ -2,12 +2,27 @@
   "data": [
     {
       "id": "miner1",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        "unsloth/SmolLM2-360M-Instruct"
+      ]
+    },
+    {
+      "id": "miner2",
       "isAccepted": true,
-      "all": false,  
-      "acc_task" : [ 
-        "unsloth/Llama-3.2-1B-Instruct",
-        "unsloth/Qwen2.5-Math-1.5B",
-        "unsloth/SmolLM2-360M-Instruct",
+      "all": false,
+      "acc_task" : [
+        "unsloth/SmolLM2-360M-Instruct
+"
+      ]
+    },
+    {
+      "id": "miner5",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "unsloth/SmolLM2-360M-Instruct"
       ]
     }
   ]
