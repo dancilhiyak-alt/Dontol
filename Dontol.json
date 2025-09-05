@@ -6,7 +6,7 @@
       "all": false,  
       "acc_task" : [ 
         "unsloth/Llama-3.2-3B",
-        "",
+        "zake7749/gemma-2-2b-it-chinese-kyara-dpo",
       ]
     }
   ]
