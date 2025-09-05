@@ -6,7 +6,7 @@
       "all": false,  
       "acc_task" : [ 
         "Lykon/art-diffusion-xl-0.9",
-        "",
+        "unsloth/SmolLM2-1.7B",
       ]
     }
   ]
