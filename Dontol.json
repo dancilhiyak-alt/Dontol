@@ -2,15 +2,15 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-360M-Instruct"
+        "facebook/opt-1.3b"
       ]
     },
     {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "NousResearch/Nous-Hermes-2-SOLAR-10.7B"
@@ -18,7 +18,7 @@
     },
     {
       "id": "miner5",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "unsloth/SmolLM2-360M-Instruct"
