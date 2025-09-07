@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "zenless-lab/sdxl-anima-pencil-xl-v5"
+        "TinyLlama/TinyLlama_v1.1"
       ]
     },
     {
