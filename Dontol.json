@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-1.5B-Instruct"
+        "TinyLlama/TinyLlama_v1.1"
       ]
     }
   ]
