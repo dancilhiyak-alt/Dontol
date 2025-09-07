@@ -10,10 +10,10 @@
     },
     {
       "id": "miner2",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-1.5B-Instruct"
+        "zenless-lab/sdxl-anima-pencil-xl-v5"
       ]
     },
     {
