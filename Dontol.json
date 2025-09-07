@@ -16,3 +16,11 @@
         "EleutherAI/pythia-1b"
       ]
     },
+    {
+      "id": "miner3",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        "EleutherAI/pythia-1b"
+      ]
+    },
