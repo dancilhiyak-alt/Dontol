@@ -23,6 +23,14 @@
       "acc_task" : [
         "TinyLlama/TinyLlama_v1.1"
       ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "TinyLlama/TinyLlama_v1.1"
+      ]
     }
   ]
 }
