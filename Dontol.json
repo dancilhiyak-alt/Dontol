@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "unsloth/Qwen2-0.5B-Instruct"
@@ -10,19 +10,9 @@
     },
     {
       "id": "miner2",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Nous-Hermes-2-SOLAR-10.7B"
+        "databricks/dolly-v2-3b"
       ]
     },
-    {
-      "id": "miner5",
-      "isAccepted": false,
-      "all": false,
-      "acc_task" : [
-        "unsloth/SmolLM2-360M-Instruct"
-      ]
-    }
-  ]
-}
