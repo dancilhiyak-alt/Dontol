@@ -10,18 +10,18 @@
     },
     {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "EleutherAI/pythia-1b"
+        "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     },
     {
       "id": "miner3",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "EleutherAI/pythia-1b"
+        "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     }
   ]
