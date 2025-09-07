@@ -18,9 +18,9 @@
     },
     {
       "id": "miner3",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "EleutherAI/pythia-1b"
+        "databricks/dolly-v2-3b"
       ]
     },
