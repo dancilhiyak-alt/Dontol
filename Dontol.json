@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "facebook/opt-125m"
+        "unsloth/Qwen2-1.5B"
       ]
     },
     {
