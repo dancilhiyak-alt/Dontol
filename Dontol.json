@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama_v1.1"
+        "zake7749/gemma-2-2b-it-chinese-kyara-dpo"
       ]
     },
     {
