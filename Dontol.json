@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama_v1.1"
+        "zenless-lab/sdxl-anything-xl"
       ]
     },
     {
