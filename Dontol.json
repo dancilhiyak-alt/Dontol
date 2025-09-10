@@ -6,7 +6,6 @@
       "all": false,
       "acc_task" : [
         "unsloth/SmolLM2-1.7B-Instruct"
-        "EleutherAI/pythia-1b"
       ]
     },
     {
