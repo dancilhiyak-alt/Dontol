@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-2-2b"
+        "unsloth/Phi-3-mini-4k-instruct"
       ]
     },
     {
