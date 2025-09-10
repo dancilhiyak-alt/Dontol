@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "zake7749/gemma-2-2b-it-chinese-kyara-dpo"
+        "dunzhang/stella_en_1.5B_v5"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "EleutherAI/pythia-1b"
+        "unsloth/gemma-2-2b"
       ]
     },
     {
