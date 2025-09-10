@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "zenless-lab/sdxl-anything-xl"
+        "EleutherAI/pythia-1b"
       ]
     },
     {
