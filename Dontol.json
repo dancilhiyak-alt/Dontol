@@ -29,7 +29,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/codegemma-2b"
+        "unsloth/llama-3-8b-Instruct"
       ]
     }
   ]
