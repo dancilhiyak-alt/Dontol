@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+        "TitanML/tiny-mixtral"
       ]
     },
     {
