@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "zenless-lab/sdxl-blue-pencil-xl-v7"
+        "bigscience/bloom-560m"
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "dunzhang/stella_en_1.5B_v5"
+        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
       ]
     },
     {
