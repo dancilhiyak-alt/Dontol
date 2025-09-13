@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "JackFram/llama-160m"
+        "bigscience/bloom-560m"
       ]
     },
     {
