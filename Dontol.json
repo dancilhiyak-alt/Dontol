@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "oopsung/llama2-7b-n-ox-test-v1",
-        "unsloth/SmolLM2-1.7B"
+        "unsloth/SmolLM2-1.7B",
+        "lcw99/zephykor-ko-7b-chang"
       ]
     },
     {
@@ -14,7 +15,9 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM-135M-Instruct"
+        "oopsung/llama2-7b-n-ox-test-v1",
+        "unsloth/SmolLM2-1.7B",
+        "lcw99/zephykor-ko-7b-chang"
       ]
     },
     {
@@ -22,7 +25,9 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2.5-0.5B"
+        "oopsung/llama2-7b-n-ox-test-v1",
+        "unsloth/SmolLM2-1.7B",
+        "lcw99/zephykor-ko-7b-chang"
       ]
     },
     {
