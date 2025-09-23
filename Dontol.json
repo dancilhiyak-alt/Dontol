@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0",
-        "oopsung/llama2-7b-n-ox-test-v1"
+        "unsloth/Llama-3.1-Storm-8B"
       ]
     },
     {
