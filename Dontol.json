@@ -18,12 +18,10 @@
     },
     {
       "id": "miner3",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "oopsung/llama2-7b-n-ox-test-v1",
-        "unsloth/SmolLM2-1.7B",
-        "lcw99/zephykor-ko-7b-chang"
+        "jingyeom/seal3.1.6n_7b"
       ]
     },
     {
