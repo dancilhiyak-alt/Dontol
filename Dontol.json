@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-0.5B"
+        "unsloth/SmolLM2-1.7B"
       ]
     },
     {
