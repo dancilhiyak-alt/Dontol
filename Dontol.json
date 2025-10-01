@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM-135M"
+        "unsloth/gemma-2-2b-it"
       ]
     },
     {
