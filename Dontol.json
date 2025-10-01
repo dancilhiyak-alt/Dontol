@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2.5-7B-Instruct"
+        "unsloth/Llama-3.2-3B"
       ]
     },
     {
