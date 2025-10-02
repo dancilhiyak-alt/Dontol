@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-1.5B-Instruct"
+        "microsoft/Phi-3-mini-128k-instruct"
       ]
     },
     {
