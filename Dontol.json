@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-135M"
+        "zake7749/gemma-2-2b-it-chinese-kyara-dpo"
       ]
     },
     {
