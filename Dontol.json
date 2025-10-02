@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "EleutherAI/gpt-neo-1.3B"
+        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
       ]
     },
     {
