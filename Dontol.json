@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-Math-1.5B"
+        "TinyLlama/TinyLlama_v1.1"
       ]
     },
     {
