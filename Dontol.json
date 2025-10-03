@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Artples/L-MChat-7b"
+        "unsloth/Qwen2.5-Coder-7B-Instruct"
       ]
     },
     {
