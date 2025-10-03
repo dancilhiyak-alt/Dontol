@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TitanML/tiny-mixtral"
+        "microsoft/Phi-3.5-mini-instruct"
       ]
     },
     {
