@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Llama-3.1-Storm-8B"
+        "unsloth/Llama-3.1-Storm-8B",
+        "microsoft/Phi-3-mini-4k-instruct"
       ]
     },
     {
