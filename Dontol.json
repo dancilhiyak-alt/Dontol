@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "unsloth/SmolLM2-1.7B-Instruct",
-        "deepseek-ai/deepseek-coder-6.7b-instruct"
+        "deepseek-ai/deepseek-coder-6.7b-instruct",
+        "unsloth/Qwen2-0.5B-Instruct"
       ]
     },
     {
