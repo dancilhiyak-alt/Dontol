@@ -5,9 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-1.7B-Instruct",
-        "deepseek-ai/deepseek-coder-6.7b-instruct",
-        "unsloth/Meta-Llama-3.1-8B"
+        "unsloth/Llama-3.1-Storm-8B"
       ]
     },
     {
