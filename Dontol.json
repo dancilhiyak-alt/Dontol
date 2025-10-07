@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-Math-1.5B-Instruct"
+        "oopsung/llama2-7b-n-ox-test-v1"
       ]
     },
     {
