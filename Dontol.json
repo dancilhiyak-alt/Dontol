@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-0.5B-Instruct",
-        "unsloth/Qwen2.5-1.5B"
+        "unsloth/Qwen2-0.5B-Instruct"
       ]
     },
     {
