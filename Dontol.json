@@ -5,7 +5,7 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "unsloth/tinyllama-chat"
+        "lmsys/vicuna-7b-v1.5"
       ]
     },
     {
