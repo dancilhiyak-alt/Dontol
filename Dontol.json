@@ -5,9 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/llama-3-8b-Instruct",
-        "unsloth/llama-2-7b",
-        "unsloth/Qwen2.5-1.5B"
+        "unsloth/llama-3-8b-Instruct"
       ]
     },
     {
