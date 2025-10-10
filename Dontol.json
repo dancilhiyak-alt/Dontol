@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "scb10x/llama-3-typhoon-v1.5-8b-instruct",
+        "NousResearch/Genstruct-7B",
         "unsloth/llama-2-7b",
         "unsloth/Qwen2.5-1.5B"
       ]
