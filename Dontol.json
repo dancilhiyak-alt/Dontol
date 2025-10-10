@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "scb10x/llama-3-typhoon-v1.5-8b-instruct"
+        "scb10x/llama-3-typhoon-v1.5-8b-instruct",
+        "unsloth/llama-2-7b"
       ]
     },
     {
