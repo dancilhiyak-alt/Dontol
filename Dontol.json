@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/llama-3-8b-Instruct",
-        "Qwen/Qwen3-0.6B-Base"
+        "DeepMount00/Llama-3-8b-Ita",
       ]
     },
     {
