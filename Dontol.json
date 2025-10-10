@@ -7,7 +7,8 @@
       "acc_task" : [
         "scb10x/llama-3-typhoon-v1.5-8b-instruct",
         "unsloth/llama-2-7b",
-        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct"
+        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct",
+        "unsloth/Qwen2.5-1.5B"
       ]
     },
     {
