@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/tinyllama"
+        "unsloth/tinyllama",
+        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
       ]
     },
     {
