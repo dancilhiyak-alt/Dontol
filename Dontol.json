@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/tinyllama",
-        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+        "EleutherAI/pythia-410m-deduped"
       ]
     },
     {
