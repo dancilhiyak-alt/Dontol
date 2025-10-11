@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-2-Pro-Mistral-7B"
+        "NousResearch/Hermes-2-Pro-Mistral-7B",
+        "dunzhang/stella_en_1.5B_v5"
       ]
     },
     {
