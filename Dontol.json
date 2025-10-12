@@ -8,7 +8,8 @@
         "NousResearch/Hermes-3-Llama-3.1-8B",
         "JackFram/llama-160m",
         "dltjdgh0928/test_instruction",
-        "Qwen/Qwen2.5-7B-Instruct"
+        "Qwen/Qwen2.5-7B-Instruct",
+        "dltjdgh0928/test_instruction"
       ]
     },
     {
