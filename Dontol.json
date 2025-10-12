@@ -9,7 +9,7 @@
         "JackFram/llama-160m",
         "dltjdgh0928/test_instruction",
         "Qwen/Qwen2.5-7B-Instruct",
-        "dltjdgh0928/test_instruction"
+        "microsoft/Phi-3-mini-4k-instruct"
       ]
     },
     {
