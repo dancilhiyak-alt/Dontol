@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
-        "unsloth/Qwen2.5-1.5B-Instruct"
+        "unsloth/Qwen2.5-1.5B-Instruct",
+        "unsloth/Qwen2-0.5B-Instruct"
       ]
     },
     {
