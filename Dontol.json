@@ -6,7 +6,7 @@
       "all": false,
       "acc_task" : [
         "unsloth/Qwen2-1.5B",
-        "NousResearch/Yarn-Llama-2-7b-64k"
+        "d9e3ab6f-2fda-4fc3-ab96-30955e7fae9c"
       ]
     },
     {
