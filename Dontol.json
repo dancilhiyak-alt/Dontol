@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-1.5B",
-        "d9e3ab6f-2fda-4fc3-ab96-30955e7fae9c"
+        "jhflow/mistral7b-lora-multi-turn-v2"
       ]
     },
     {
