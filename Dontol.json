@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "huggyllama/llama-7b",
-        "tiiuae/falcon-7b"
+        "bigscience/bloom-560m"
       ]
     },
     {
