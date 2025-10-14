@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "NousResearch/Meta-Llama-3-8B",
-        "Qwen/Qwen2.5-0.5B-Instruct"
+        "Qwen/Qwen2.5-0.5B-Instruct",
+        "microsoft/phi-1_5"
       ]
     },
     {
