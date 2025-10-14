@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "ousResearch/Yarn-Mistral-7b-128k"
+        "NousResearch/Yarn-Mistral-7b-128k"
       ]
     },
     {
