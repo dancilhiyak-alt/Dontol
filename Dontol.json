@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "bigscience/bloom-560m",
-        "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B"
+        ""
       ]
     },
     {
