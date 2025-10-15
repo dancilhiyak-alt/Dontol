@@ -5,9 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Genstruct-7B",
-        "Qwen/Qwen2.5-0.5B-Instruct",
-        "microsoft/phi-1_5"
+        "NousResearch/Genstruct-7B"
       ]
     },
     {
