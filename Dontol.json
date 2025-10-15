@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "NousResearch/CodeLlama-7b-hf-flash",
-        "unsloth/Qwen2.5-1.5B-Instruct"
+        "unsloth/Qwen2.5-1.5B-Instruct",
+        "Qwen/Qwen2.5-Math-7B-Instruct"
       ]
     },
     {
