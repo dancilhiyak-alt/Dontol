@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "sethuiyer/Medichat-Llama3-8B",
-        "Qwen/Qwen2-0.5B-Instruct"
+        "EleutherAI/pythia-410m-deduped"
       ]
     },
     {
