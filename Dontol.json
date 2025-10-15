@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/llama-2-7b"
+        "sethuiyer/Medichat-Llama3-8B"
       ]
     },
     {
