@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "EleutherAI/pythia-410m-deduped",
-        "Qwen/Qwen2.5-1.5B-Instruct"
+        ""
       ]
     },
     {
