@@ -5,9 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-2-2b",
-        "unsloth/Qwen2.5-1.5B-Instruct",
-        "Qwen/Qwen2.5-Math-7B-Instruct"
+        "unsloth/gemma-2-2b"
       ]
     },
     {
