@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/mistral-7b-instruct-v0.3",
-        "NousResearch/Yarn-Llama-2-7b-64k"
+        "unsloth/mistral-7b-instruct-v0.3"
       ]
     },
     {
