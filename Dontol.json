@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/mistral-7b-instruct-v0.3"
+        "NousResearch/Yarn-Solar-10b-32k"
       ]
     },
     {
