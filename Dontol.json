@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "GOAT-AI/GOAT-70B-Storytelling",
-        "NousResearch/Llama-3.2-1B"
+        "Qwen/Qwen2.5-1.5B-Instruct"
       ]
     },
     {
