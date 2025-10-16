@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-7b-it"
+        "TinyLlama/TinyLlama_v1.1"
       ]
     },
     {
