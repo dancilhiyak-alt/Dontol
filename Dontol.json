@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "unsloth/Phi-3.5-mini-instruct",
-        "unsloth/OpenHermes-2.5-Mistral-7B"
+        "unsloth/OpenHermes-2.5-Mistral-7B",
+        "unsloth/SmolLM-135M-Instruct"
       ]
     },
     {
