@@ -6,7 +6,7 @@
       "all": false,
       "acc_task" : [
         "unsloth/Phi-3.5-mini-instruct",
-        "Qwen/Qwen1.5-0.5B-Chat"
+        "unsloth/OpenHermes-2.5-Mistral-7B"
       ]
     },
     {
